@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://silentsongs.github.io/
+title: Silent Songs
+subtitle: 嬉笑怒骂，声色犬马.
+author: Kangjing
 simple_search: https://www.google.com/search
 description:
 
