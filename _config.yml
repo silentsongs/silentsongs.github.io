@@ -4,7 +4,7 @@
 
 url: http://
 title: 青色鸟
-subtitle: 理性和感性两手抓，两手都要硬.
+subtitle: 双脚踩地，双手捧心.
 author: 青色鸟
 simple_search: https://www.google.com/search
 description:
@@ -91,8 +91,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: silentsongs
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-54088930-1
