@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http:///blog/2015/03/03/shan-fan-jiu-jian-cong-rong-bu-po-hou-cang-zhao-ni-zui-xiang-guo-de-ren-sheng/</loc>
+    <lastmod>2015-03-03T22:17:30+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http:///blog/2015/03/03/ru-he-gei-rang-ren-tou-teng-de-fu-za-xiang-mu-zuo-qing-xi-you-xiao-de-gui-hua/</loc>
     <lastmod>2015-03-03T22:12:02+08:00</lastmod>
     <priority>0.8</priority>
@@ -11,14 +17,14 @@
   
   <url>
     <loc>http:///blog/archives/</loc>
-    <lastmod>2015-03-03T22:13:13+08:00</lastmod>
+    <lastmod>2015-03-03T22:39:33+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http:///</loc>
-    <lastmod>2015-03-03T22:13:13+08:00</lastmod>
+    <lastmod>2015-03-03T22:39:33+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
